@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot Keeper</string>
+    <string name="accessibility_service_description">Automatically turns the Wi-Fi hotspot switch on in Settings when the hotspot has been turned off, so it stays on all the time.</string>
+</resources>
